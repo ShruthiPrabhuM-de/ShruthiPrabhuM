@@ -36,5 +36,5 @@ AWS CloudWatch & OpenSearch Monitoring Setup
 📌 Created 100+ CloudWatch alarms and 30+ OpenSearch dashboards for alerting & analytics.
 
 📫 Let's Connect!
-GitHub: github.com/ShruthiPrabhuM
+GitHub: github.com/ShruthiPrabhuM-de
 LinkedIn: linkedin.com/in/www.linkedin.com/in/shruthi-prabhu-3b593a13a
