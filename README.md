@@ -1,5 +1,5 @@
 # ShruthiPrabhuM
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm Shruthi!
 🚀 Cloud Operations Engineer | DevOps Enthusiast | Azure | AWS | Kubernetes | Terraform
 
 With 6 years of experience in Cloud Operations, Incident Management, Fault Management, and Automation, I specialize in supporting both on-premises and cloud infrastructure (Azure & AWS). Passionate about optimizing infrastructure, automating workflows, and ensuring high availability, I have led teams and worked on large-scale cloud projects in the transportation and airline industries.
